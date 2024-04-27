@@ -5,7 +5,7 @@
 #GPIO3 -> SCL
 
 #Import the Library Requreid 
-import smbus
+import smbus2
 import time
 
 # for RPI version 1, use "bus = smbus.SMBus(0)"
